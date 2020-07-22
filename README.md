@@ -10,6 +10,9 @@
 
 Hi, I'm Rajan Magar, a passionate self-taught front-end-developer from India. Apart from programming, I enjoy eating traveling and sketchin.
 
+
+ <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="400">
+
 ```
   <Skills
       askMeAbout={[
