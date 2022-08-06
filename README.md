@@ -1,5 +1,5 @@
-# Rajan Magar 👋
-### UI Developer • Javascript • ReactJs • Motivator
+# Rajan Magar aka Raj👋
+### UI Developer • Javascript • ReactJs • Learner
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/rajanmagarrr/))](https://www.linkedin.com/in/rajanmagarrr/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?logo=Twitter&link=(https://twitter.com/rajanmagarrr))](https://twitter.com/rajanmagarrr)
@@ -8,7 +8,7 @@
 [![Behance](https://img.shields.io/badge/-Behance-222222?logo=Behance&link=(https://www.behance.net/rajmagar))](https://www.behance.net/rajmagar)
 [![Dribble](https://img.shields.io/badge/-Dribbble-222222?logo=Dribbble&link=(https://dribbble.com/rajanmagar))](https://dribbble.com/rajanmagar)
 
-Hi, I'm Rajan Magar, a passionate self-taught front-end-developer from India. Apart from programming, I enjoy eating traveling and sketchin.
+Hi, I'm Rajan Magar, a passionate self-taught front-end-developer from India. Apart from programming, I enjoy eating, traveling and sketching.
 
 
  <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="400">
