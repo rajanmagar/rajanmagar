@@ -15,6 +15,7 @@ Hi, I'm Rajan Magar, a passionate self-taught front-end-developer from India. Ap
 
 ```
   <Skills
+      pronouns: "He" | "Him",
       askMeAbout={[
         "webdev", "tech", "music",
         "design", "research", "drawing"
@@ -27,14 +28,16 @@ Hi, I'm Rajan Magar, a passionate self-taught front-end-developer from India. Ap
           },
           backEnd: {
             js: ["node", "express"],
-            python: ["flask"],
           },
           languages: ["javascript", "c", "c++"],
-          databases: ["mongo", "firebase-database", "MySQL"]
+          databases: ["mongo", "firebase-database", "MySQL"],
+          architecture: ["Progressive web applications", "Single page applications", "Multi page applications"]
         }
       }
    />
 ```
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 **Languages & Tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
