@@ -1,6 +1,8 @@
 # Rajan Magar aka Raj👋
 ### UI Developer • Javascript • ReactJs • Learner
 
+Hi 👋, I’m India based Frontend developer with 5* years of experience looking to step into a engineer role.
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/rajanmagarrr/))](https://www.linkedin.com/in/rajanmagarrr/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?logo=Twitter&link=(https://twitter.com/rajanmagarrr))](https://twitter.com/rajanmagarrr)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-222222?logo=CodeSandbox&link=(https://codesandbox.io/u/rajanmagar))](https://codesandbox.io/u/rajanmagar)
